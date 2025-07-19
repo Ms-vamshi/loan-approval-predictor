@@ -44,8 +44,6 @@ The model predicts loan approval based on input factors such as:
 - Co-applicant Income  
 - Loan Amount  
 - Loan Term  
-- Credit History  
-- Gender, Marital Status, etc.
 
 You can replace `model.pkl` with your own model trained on a different dataset.
 
